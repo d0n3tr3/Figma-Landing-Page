@@ -1,0 +1,36 @@
+.cont1{
+    background: #A2CAC8;
+    width: 720px;
+    height: 1024px;
+    top: 0%;
+}
+.cont2{
+
+    background: #A074B7;
+    width: 720px;
+    height: 1024px;
+    margin-left: 720px;
+    top: 0%;
+    margin-top: -1024px;
+}
+.cont3{
+    position: relative;
+    position: absolute;
+    left: 175px;
+    top: 1%;
+    
+    width: 1099px;
+    height: 1024px;
+    margin-top: -1px;
+    
+}
+.img{
+    margin-top: 500px;
+}
+.imgb{
+    
+}
+.logo{
+    margin-top: 25px;
+    margin-left: 25px;
+}
