@@ -4,6 +4,20 @@
     height: 1024px;
     top: 0%;
 }
+.fp{
+    width: 356px;
+    height: 69px;
+    margin-left: 196px;
+    margin-top: 335px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.06em;
+    color: #ffffff;
+    
+}
 .cont2{
 
     background: #A074B7;
@@ -13,6 +27,31 @@
     top: 0%;
     margin-top: -1024px;
 }
+.sp{
+    width: 295px;
+    height: 72px;
+    margin-left: 196px;
+    margin-top: 331px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+.contus{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 400px;
+    padding-top: 20px;
+
+}
+.singup{
+    margin-left: 600px;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size:larger;
+}
 .cont3{
     position: relative;
     position: absolute;
@@ -21,11 +60,29 @@
     
     width: 1099px;
     height: 1024px;
-    margin-top: -1px;
+    margin-top: -383px;
     
 }
+.tp{
+    width: 220px;
+    height: 182px;
+    left: 610px;
+    top: 286px;
+    font-family: 'Histora Beralin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 90px;
+    letter-spacing: 0.07em;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+}
+.imgb{
+   margin-top: 500px;
+   margin-left: 454px;
+}
 .img{
-    margin-top: 500px;
+    margin-top: -74px;
 }
 
 .logo{
